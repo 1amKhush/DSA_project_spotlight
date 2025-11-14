@@ -18,7 +18,7 @@ C++17 compiler
 
 Installation
 Clone:
-git clone https://github.com/1amKhush/DSA_Project.git
+git clone https://github.com/1amKhush/DSA_project_spotlight.git
 cd bm25-search-engine
 
 Optional dependencies:
